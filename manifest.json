@@ -3,9 +3,9 @@
     "short_name": "CALVIQ-Admin",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "background_color": "#5389C9",
+    "theme_color": "#5389C9",
+    "description": "CALVIQ-Admin — Administration companion app for CalviQ.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
